@@ -1,6 +1,5 @@
 # Movie-Genre-Prediction-ML
 Movie Genre Prediction using TF-IDF and Naive Bayes
-# Movie Genre Prediction using Machine Learning
 
 ## Project Description
 This project predicts movie genres based on movie descriptions using machine learning techniques.
